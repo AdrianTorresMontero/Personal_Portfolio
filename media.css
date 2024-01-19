@@ -91,3 +91,9 @@
   }
 }
 
+@media screen and (max-width:1000px) {
+  .about-container,.contact-info-upper-container, .btn-container{
+    flex-wrap: wrap;
+  }
+}
+
